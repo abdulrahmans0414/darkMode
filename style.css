@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh;
+    background: rgb(233, 233, 233);
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+p {
+    margin-bottom: 200px;
+}
+
+svg {
+    cursor: pointer;
+}
+
+body {
+    font-family: sans-serif;
+}
