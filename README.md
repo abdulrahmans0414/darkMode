@@ -1,12 +1,9 @@
-# Dark Mode Switcher with Animation.js
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Dark Mode Switcher 🌙
 
 This repository contains a simple HTML, CSS, and JavaScript implementation for a dark mode switcher using Anime.js for smooth animations. Users can toggle between light and dark modes by clicking on a sun/moon icon.
 
 ## Demo
-
-[demo](https://bright-dasik-2e6dba.netlify.app)
+[Live Demo](https://bright-dasik-2e6dba.netlify.app) | [Anime.js](https://animejs.com/) | [MIT License](LICENSE)
 
 ## Project Structure
 
