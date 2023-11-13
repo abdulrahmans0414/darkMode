@@ -1,4 +1,4 @@
-# Dark Mode Switcher 🌙
+# Dark Mode Switcher with Animation 🌙
 
 This repository contains a simple HTML, CSS, and JavaScript implementation for a dark mode switcher using Anime.js for smooth animations. Users can toggle between light and dark modes by clicking on a sun/moon icon.
 
